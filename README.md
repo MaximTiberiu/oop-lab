@@ -77,7 +77,7 @@ Mai multe detalii, vor fi anunțate în proximitatea acestuia. Până atunci, c�
 | Proiect - M3  | Săptămânile 12/13 |
 | Colocviu      | Săptămâna 14      |
 ## Materiale Laborator
-Materialele și codul utilizat în cadrul laboratoarelor poate fi găsit [aici](#).
+Materialele și codurile utilizate în cadrul laboratoarelor pot fi găsite [aici](https://github.com/MaximTiberiu/oop-lab/tree/main/materiale/).
 
 ## Alte Materiale Utile
 În repo-ul lui Marius găsiți o multitudine de informații structurate pe categorii. Pentru a vă fi mai ușor, las aici câte un link pentru fiecare dintre acestea:
@@ -85,6 +85,7 @@ Materialele și codul utilizat în cadrul laboratoarelor poate fi găsit [aici](
 - [Resurse](https://github.com/mcmarius/poo/blob/master/README.md#resurse)
 - [Exerciții](https://github.com/mcmarius/poo/tree/master/exercitii)
 - [Erori frecvente](https://github.com/mcmarius/poo/blob/master/erori.md)
+- [Observații](https://github.com/mcmarius/poo/blob/master/obs.md)
 - [Biblioteci externe](https://github.com/mcmarius/poo/blob/master/libs)
 
 ## Contact
