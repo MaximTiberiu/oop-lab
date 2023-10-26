@@ -68,6 +68,8 @@ private:
     Punct punct_1;
     Punct punct_2;
 
+    int x1, x2, y1, y2;
+
 public:
     Dreptunghi() = default;
     ~Dreptunghi() = default;
