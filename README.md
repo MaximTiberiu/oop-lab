@@ -7,6 +7,7 @@ Laboratorul de Programare Orientată pe Obiecte, Facultatea de Matematică și I
 
 ## Cuprins
 1. [Despre Evaluare](#despre-evaluare)
+2. [Noutați în acest an](#noutăți-în-acest-an)
 2. [Despre Prezențe](#despre-prezențe)
 3. [Despre Proiect](#despre-proiect)
 4. [Despre Colocviu](#despre-colocviu)
@@ -17,7 +18,7 @@ Laboratorul de Programare Orientată pe Obiecte, Facultatea de Matematică și I
 
 
 ## Despre Evaluare
-Componenta de laborator reprezintă 50% din nota finală de la această disciplină. Ea se obține din alte două sub-componente: un colocviu și o parte practică care se va implementa pe parcursul întregului semestru.
+Componenta de laborator reprezintă 50% din nota finală de la această disciplină. Ea se obține din alte două sub-componente: o parte practică (care se va implementa pe parcursul întregului semestru) și un colocviu (la final de semestru).
 
 Fiecare dintre cele două componente ale laboratorului valorează câte 50% din nota de laborator. Altfel spus, notarea la această disciplină se face în felul următor:
 
@@ -25,21 +26,34 @@ Fiecare dintre cele două componente ale laboratorului valorează câte 50% din 
 - **25% colocviu de laborator;** *(aici vom lucra noi)*
 - **25% proiect/teme.** *(aici vom lucra noi)*
 
-Nota maximă pe care o puteți obține în cadrul acestui laborator este de **12** puncte (2p reprezintă *bonus*) pentru **proiect** și **13** puncte (3p reprezintă *bonus*) pentru **colocviu**.
+Nota maximă pe care o puteți obține în cadrul acestui laborator este de **12** puncte (2p reprezintă *bonus*) pentru **proiect** și **1X** puncte (**X**p reprezintă *bonus* - *rămâne de stabilit*) pentru **colocviu**.
+
+> Există prag pentru fiecare componentă a evaluarii. Pentru a intra în colocviu, trebuie să obțineți minim nota 5 la proiect. Pentru a intra în examen, trebuie să obțineți și la colocviu, evident, minim nota 5.
+
+## Noutăți în acest an
+Începând cu acest an, orele de seminar au fost transformate în ore de proiect. Dacă, până acum, evaluarea proiectului se făcea la laborator, acum se va face în cadrul orelor de proiect.
+
+Laboratoarele se fac pe semi-grupe, în timp ce orele de proiect sunt la comun pentru toată grupa. Laboratoarele sunt săptămânale, în timp ce orele de proiect vor avea loc la un interval de două săptămâni.
+
 ## Despre Prezențe
-Prezențele la laborator nu sunt obligatorii.
+Prezențele la laborator nu sunt obligatorii (**dar foarte recomandate!**).
 
-Totuși, *este necesar să fiți prezenți* la laboratoarele în care se va evalua munca depusă în cadrul temelor/proiectului. Calendarul acestora se regăsește [aici](#calendar-laborator).
+Totuși, *este necesar să fiți prezenți* la orele de proiect în care se va evalua munca depusă în cadrul componentei practice. Calendarul acestora se regăsește [aici](#calendar-laborator).
 
+
+**ALTE REGULI IMPORTANTE!**
 > Prezența la laborator **NU** garantează promovarea acestuia!
 
+> **NU** se acceptă prezentarea proiectului la final de semestru! Iar pentru întârzieri se aplică penalizări!
+
 De asemenea, țin să menționez că acest laborator este o componentă mai mult autodidactă. Sunteți responsabili *(într-o oarecare măsură)* pentru succesul vostru la colocviu.
+
 ## Despre Proiect
-Componenta practică a acestui laborator constă în realizarea unor teme cu diferinte cerințe de îndeplinit, sau a unui proiect care respectă aceeași listă de cerințe.
+Componenta practică a acestui laborator constă în realizarea unui proiect care îndeplinește o serie de cerințe.
 
 Temele de proiect se pot alege în mod independent. Nu sunt restricții, însă trebuie să vă asigurați că aceste criterii pot fi îndeplinite prin tema pe care decideți să o alegeți.
 
-Există această pagină în care puteți observa câteva idei de teme care au fost alese în trecut: [HoF.md](https://github.com/mcmarius/poo/blob/master/HoF.md).
+Există această pagină în care puteți observa câteva idei de teme care au fost alese în trecut: [HoF.md](https://github.com/mcmarius/poo/blob/master/HoF.md). **Există și proiecte interzise!**
 
 ***
 Etapele de realizare a acestei componente sunt:
@@ -60,7 +74,9 @@ Pentru gestionarea și evaluarea facilă a proiectului, se va utiliza un [templa
 
 ***
 
-Evaluarea temelor/proiectului se face pentru fiecare milestone. Acestă evaluare constă în prezentarea în câteva minute a progresului din respectivul milestone și într-un code review efectuat pe GitHub de către mine. 
+Evaluarea proiectului se face pentru fiecare milestone. Acestă evaluare constă în prezentarea + explicarea, în câteva minute, a progresului din respectivul milestone, o serie de întrebări la care trebuie să răspundeți și într-un code review efectuat de către mine.
+
+După fiecare feedback, aveți șansa să vă reparați o parte din muncă. Acest lucru poate afecta nota pozitiv sau negativ, în funcție de ce ați făcut sau nu ați făcut în urma feedback-ului privit.
 
 La final, se va realiza media aritmectică a celor trei note obținute. Punctele bonus se acordă la nota finală a acestei componente.
 
@@ -76,6 +92,7 @@ Mai multe detalii, vor fi anunțate în proximitatea acestuia. Până atunci, c�
 | Proiect - M2  | Săptămânile 8/9   |
 | Proiect - M3  | Săptămânile 12/13 |
 | Colocviu      | Săptămâna 14      |
+
 ## Materiale Laborator
 Materialele și codurile utilizate în cadrul laboratoarelor pot fi găsite [aici](https://github.com/MaximTiberiu/oop-lab/tree/main/materiale/).
 
