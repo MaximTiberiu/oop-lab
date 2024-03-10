@@ -123,4 +123,7 @@ fabric.properties
 !**/.idea/codeStyles
 !**/.idea/runConfigurations
 
+### VsCode
+**/.vscode/*
+
 # End of https://www.toptal.com/developers/gitignore/api/c++,clion+all
