@@ -1,5 +1,5 @@
 
-# Laborator POO 2023-2024
+# Laborator POO 2024-2025
 Laboratorul de Programare Orientată pe Obiecte, Facultatea de Matematică și Informatică @ Universitatea din București
 
 ### Acknowledgements
@@ -30,15 +30,11 @@ Nota maximă pe care o puteți obține în cadrul acestui laborator este de **12
 
 > Există prag pentru fiecare componentă a evaluarii. Pentru a intra în colocviu, trebuie să obțineți minim nota 5 la proiect. Pentru a intra în examen, trebuie să obțineți și la colocviu, evident, minim nota 5.
 
-## Noutăți în acest an
-Începând cu acest an, orele de seminar au fost transformate în ore de proiect. Dacă, până acum, evaluarea proiectului se făcea la laborator, acum se va face în cadrul orelor de proiect.
-
-Laboratoarele se fac pe semi-grupe, în timp ce orele de proiect sunt la comun pentru toată grupa. Laboratoarele sunt săptămânale, în timp ce orele de proiect vor avea loc la un interval de două săptămâni.
-
 ## Despre Prezențe
 Prezențele la laborator nu sunt obligatorii (**dar foarte recomandate!**).
+Voi face prezența, voi nota și activitatea: pot ține cont de aceste aspecte la evaluare.
 
-Totuși, *este necesar să fiți prezenți* la orele de proiect în care se va evalua munca depusă în cadrul componentei practice. Calendarul acestora se regăsește [aici](#calendar-laborator).
+Totuși, *este necesar să fiți prezenți* la orele de prezentări în care se va evalua munca depusă în cadrul componentei practice. Calendarul acestora se regăsește [aici](#calendar-laborator).
 
 
 **ALTE REGULI IMPORTANTE!**
@@ -60,25 +56,25 @@ Etapele de realizare a acestei componente sunt:
 
 [Configurarea mediului de lucru](https://github.com/mcmarius/poo/tree/master/env)
 
-[Tema 1](https://github.com/mcmarius/poo/tree/master/tema-1) - **compunere, constructori, cc, op=, destr, op<<**
+[Milestone 1](https://github.com/mcmarius/poo/tree/master/tema-1) - **compunere, constructori, cc, op=, destr, op<<**
 
-[Tema 2](https://github.com/mcmarius/poo/tree/master/tema-2) - **moștenire, virtual, excepții, dynamic_cast**
+[Milestone 2](https://github.com/mcmarius/poo/tree/master/tema-2) - **moștenire, virtual, excepții, dynamic_cast**
 
-[Tema 3](https://github.com/mcmarius/poo/tree/master/tema-3) - **templates (șabloane), design patterns (șabloane de proiectare)**
+[Milestone 3](https://github.com/mcmarius/poo/tree/master/tema-3) - **templates (șabloane), design patterns (șabloane de proiectare)**
 
-> Găsiți informații utile în fișierele markdown aferente fiecărei teme. Vă recomand să treceți prin acestea.
-
-***
-
-Pentru gestionarea și evaluarea facilă a proiectului, se va utiliza un [template](https://github.com/mcmarius/oop-template) de la Marius. Detalii despre acesta puteți găsi [aici](https://github.com/mcmarius/poo/blob/master/env/setup.md).
+> Găsiți informații utile în fișierele markdown aferente fiecărui milestone. Vă recomand să treceți prin acestea.
 
 ***
 
-Evaluarea proiectului se face pentru fiecare milestone. Acestă evaluare constă în prezentarea + explicarea, în câteva minute, a progresului din respectivul milestone, o serie de întrebări la care trebuie să răspundeți și într-un code review efectuat de către mine.
+Pentru gestionarea și evaluarea facilă a proiectului, se va utiliza un [template](https://github.com/MaximTiberiu/oop-template) de la @Marius. Detalii despre acesta puteți găsi [aici](https://github.com/mcmarius/poo/blob/master/env/setup.md).
 
-După fiecare feedback, aveți șansa să vă reparați o parte din muncă. Acest lucru poate afecta nota pozitiv sau negativ, în funcție de ce ați făcut sau nu ați făcut în urma feedback-ului privit.
+***
 
-La final, se va realiza media aritmectică a celor trei note obținute. Punctele bonus se acordă la nota finală a acestei componente.
+Evaluarea proiectului se face pentru fiecare milestone. Acestă evaluare constă în prezentarea + explicarea, în câteva minute, a progresului din respectivul milestone, într-o serie de întrebări la care trebuie să răspundeți și într-un code review efectuat de către mine.
+
+După fiecare feedback, aveți șansa să vă reparați o parte din muncă. Acest lucru poate afecta nota pozitiv sau negativ, în funcție de ce ați făcut sau nu ați făcut în urma feedback-ului primit.
+
+La final, se va realiza media aritmectică a celor trei note obținute. Punctele bonus se adaugă la nota finală a acestei componente.
 
 ## Despre Colocviu
 Colocviul reprezintă un examen de laborator prin care vi se vor testa conoștințele dobândite în cadrul acestui laborator prin implementarea unor cerințe folosind tehnici POO.
@@ -86,12 +82,23 @@ Colocviul reprezintă un examen de laborator prin care vi se vor testa conoștin
 Mai multe detalii, vor fi anunțate în proximitatea acestuia. Până atunci, câteva sfaturi pentru colocviu puteți găsi [aici](https://github.com/mcmarius/poo/blob/master/colocviu.md).
 
 ## Calendar Laborator
-| Activitate    | Săptămâna         |
-| :-----------: | :---------------: |
-| Proiect - M1  | Săptămânile 4/5   |
-| Proiect - M2  | Săptămânile 8/9   |
-| Proiect - M3  | Săptămânile 12/13 |
-| Colocviu      | Săptămâna 14      |
+| Activitate      | Săptămâna         | Calendar          | Action Item     |
+| :-----------:   | :---------------: | :-------------:   | :-------------: |
+| N/A             | Săptămâna 1       | 1-2 octombrie     | N/A             |
+| Start Laborator | Săptămâna 2       | 8-9 octombrie     | N/A             |
+| Laborator 2     | Săptămâna 3       | 15-16 octombrie   | de reprogramat  |
+| Laborator 3     | Săptămâna 4       | 22-23 octombrie   | de reprogramat* |
+| Laborator 4     | Săptămâna 5       | 29-30 octombrie   | de reprogramat  |
+| Laborator 5     | Săptămâna 6       | 5-6 noiembrie     | Proiect - M1    |
+| Laborator 6     | Săptămâna 7       | 12-13 noiembrie   | N/A             |
+| Laborator 7     | Săptămâna 8       | 19-20 noiembrie   | N/A             |
+| Laborator 8     | Săptămâna 9       | 26-27 noiembrie   | N/A             |
+| Laborator 9     | Săptămâna 10      | 3-4 decembrie     | Proiect - M2    |
+| Laborator 10    | Săptămâna 11      | 10-11 decembrie   | N/A             |
+| Laborator 11    | Săptămâna 12      | 17-18 decembrie   | N/A             |
+| Vacanță         | Vacanță           | 23/12 - 05/01     | Vacanță         |
+| Laborator 12    | Săptămâna 13      | 7-8 ianuarie      | Proiect - M3    |
+| Colocviu        | Săptămâna 14      | 14-15 ianuarie    | N/A             |
 
 ## Materiale Laborator
 Materialele și codurile utilizate în cadrul laboratoarelor pot fi găsite [aici](https://github.com/MaximTiberiu/oop-lab/tree/main/materiale/).
