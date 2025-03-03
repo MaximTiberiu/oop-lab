@@ -7,11 +7,10 @@ Laborator de Programare Orientată pe Obiecte, Facultatea de Matematică și Inf
 
 ## Cuprins
 1. [Despre Evaluare](#despre-evaluare)
-2. [Noutați în acest an](#noutăți-în-acest-an)
 2. [Despre Prezențe](#despre-prezențe)
 3. [Despre Proiect](#despre-proiect)
 4. [Despre Colocviu](#despre-colocviu)
-5. [Calendar Laborator](#calendar-laborator)
+5. [Calendar Laborator](#calendar-activități)
 6. [Materiale Laborator](#materiale-laborator)
 7. [Alte Materiale Utile](#alte-materiale-utile)
 8. [Contact](#contact)
@@ -87,7 +86,7 @@ Colocviul reprezintă un examen de laborator prin care vi se vor testa conoștin
 
 Mai multe detalii, vor fi anunțate în proximitatea acestuia. Până atunci, câteva sfaturi pentru colocviu puteți găsi [aici](https://github.com/mcmarius/poo/blob/master/colocviu.md).
 
-## Calendar Laborator & Seminar
+## Calendar Activități
 | Activitate      | Săptămâna         | Calendar          | Action Item     |
 | :-----------:   | :---------------: | :-------------:   | :-------------: |
 | Laborator 1     | Săptămâna 1       | 25 februarie      | pierdut         |
